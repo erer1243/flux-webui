@@ -1,0 +1,7 @@
+diffusers
+transformers
+accelerate
+tzdata
+sentencepiece
+protobuf
+bottle
