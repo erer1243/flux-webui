@@ -15,6 +15,6 @@ pacman -S python-pytorch-opt-cuda # replace with an appropriate pytorch install 
 # edit webserver.py, insert your hugging face token near the top of the script
 $EDITOR webserver.py
 
-# run
+# run, visit localhost:8080 in your browser
 python webserver.py
 ```
